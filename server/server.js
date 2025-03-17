@@ -6,6 +6,7 @@ const typeDefs = `#graphql
         greeting: String
     }
 `
+ 
 
 const resolvers = {
     Query: {
